@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="constantes.h" open="1" top="0" tabpos="0">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="cpu.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="847" topLine="582" />
+	</File>
+	<File name="cpu.h" open="1" top="0" tabpos="0">
+		<Cursor position="350" topLine="0" />
+	</File>
+	<File name="functions.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="2202" topLine="40" />
+	</File>
+	<File name="functions.h" open="1" top="0" tabpos="0">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1229" topLine="12" />
+	</File>
+</CodeBlocks_layout_file>

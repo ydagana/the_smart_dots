@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1207697415 e:\jens\info\my programs\c-c++\the smart dots\functions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"functions.h"
+	"cpu.h"
+
+1203289456 e:\jens\info\my programs\c-c++\the smart dots\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"functions.h"
+
+1202689917 e:\jens\info\my programs\c-c++\the smart dots\constantes.h
+
+1203881143 e:\jens\info\my programs\c-c++\the smart dots\functions.h
+
+1207697308 e:\jens\info\my programs\c-c++\the smart dots\cpu.h
+
+1207697308 e:\jens\info\my programs\c-c++\the smart dots\cpu.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"constantes.h"
+	"cpu.h"
+
+1207697416 d:\jens\info\my programs\my programs\c-c++\the smart dots\functions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"functions.h"
+	"cpu.h"
+
+1202689918 d:\jens\info\my programs\my programs\c-c++\the smart dots\constantes.h
+
+1203881144 d:\jens\info\my programs\my programs\c-c++\the smart dots\functions.h
+
+1208089289 d:\jens\info\my programs\my programs\c-c++\the smart dots\cpu.h
+
+1203289458 d:\jens\info\my programs\my programs\c-c++\the smart dots\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"functions.h"
+
+1208087731 d:\jens\info\my programs\my programs\c-c++\the smart dots\cpu.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"constantes.h"
+	"cpu.h"
+
