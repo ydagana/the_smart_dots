@@ -10,7 +10,7 @@
 `formConfig` is a json object.
 `name` is a string object.
 
-```$xslt
+```
 basicForm: {
     form: {
         classes: 'any css classes',
